@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "20903340495",
+    "project_id": "valley-craft",
+    "storage_bucket": "valley-craft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20903340495:android:0fbeca3f3bd0fd7a944aba",
+        "android_client_info": {
+          "package_name": "com.aaisha.sellersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20903340495-rsfred7c31o9na64gbprdmhmau66ei9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB70vQvhXLEl-BkJBlj8JkEdF_lUA22_Ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20903340495-rsfred7c31o9na64gbprdmhmau66ei9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20903340495:android:d0d802c0734b0c4d944aba",
+        "android_client_info": {
+          "package_name": "com.aaisha.usersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20903340495-rsfred7c31o9na64gbprdmhmau66ei9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB70vQvhXLEl-BkJBlj8JkEdF_lUA22_Ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20903340495-rsfred7c31o9na64gbprdmhmau66ei9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
