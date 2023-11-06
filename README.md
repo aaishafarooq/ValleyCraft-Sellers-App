@@ -1,6 +1,6 @@
 # sellers_app
 
-A new Flutter project.
+Valley Craft is an e-commerce App developed using Flutter, Dart, and Firebase Firestore..
 
 ## Getting Started
 
